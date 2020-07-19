@@ -1,6 +1,6 @@
 # VI_Code
 - - -
-## send_PIE
+## send PIE
 
 通过USRP发送PIE信号，分别基于CW和Chrip实现。
 
